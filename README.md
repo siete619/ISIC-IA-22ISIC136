@@ -31,7 +31,7 @@ Este repositorio contiene las evidencias de aprendizaje, prácticas, códigos y 
 
 ```text
 .
-├── 📁 Unidad_1/    # Conceptos Fundamentales e Introducción a la IA
-├── 📁 Unidad_2/    # Algoritmos de Búsqueda y Resolución de Problemas
-├── 📁 Unidad_3/    # Representación del Conocimiento y Razonamiento
-└── 📁 Unidad_4/    # Aprendizaje Automático y Redes Neuronales
+├── 📁 Unidad_1/    
+├── 📁 Unidad_2/    
+├── 📁 Unidad_3/    
+└── 📁 Unidad_4/    
