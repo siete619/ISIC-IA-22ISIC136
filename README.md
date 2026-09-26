@@ -9,9 +9,12 @@
 
 ## 📑 REPOSITORIO DE ENTREGAS Y PRÁCTICAS
 
-**Alumno:** Aaron Luna Gonzalez  
+**Alumno:** Aaron Luna Gonzalez
+
 **Semestre:** 9° Semestre
+
 **Matricula:** 22ISIC136
+
 **Docente:** Ing. Salvador Mendoza Perez
 
 ---
